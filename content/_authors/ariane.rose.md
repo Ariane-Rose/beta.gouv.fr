@@ -1,6 +1,7 @@
 ---
 fullname: Ariane ROSE
 role: Intrapreneur
+github: <ArianeRicher>
 domaine: Déploiement
 missions:
   - start: 2020-09-01
